@@ -1,0 +1,4 @@
+->Im Pedro, a CompSci student in UFRJ, in Brazil.
+->I plan on specializing in CyberSec, but i may find other paths.
+->Languages that i know (sort of): C, C++, Python, HTML
+->If you have any beginner projects (or just want to know me better), call me up!
