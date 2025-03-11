@@ -1,4 +1,6 @@
-->Im Pedro, a CompSci student in UFRJ, in Brazil.
-->I plan on specializing in CyberSec, but i may find other paths.
-->Languages that i know (sort of): C, C++, Python, HTML
-->If you have any beginner projects (or just want to know me better), call me up!
+
+## Hey, i am Pedro :man_technologist:
+
+My name is Pedro Freitas, i am a student of Computer Science at UFRJ, and a member of the GRIS group.
+
+I am very interested in all things technology, however i am most passionate about cybersecurity and networking.
