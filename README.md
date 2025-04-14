@@ -10,7 +10,7 @@ I am very interested in all things technology, however i am most passionate abou
 #### Languages:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,java,bash,powershell" />
+    <img src="https://skillicons.dev/icons?i=c,cs,cpp,py,java,bash,powershell" />
   </a>
 </p>
 
