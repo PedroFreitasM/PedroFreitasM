@@ -17,6 +17,6 @@ I am very interested in all things technology, however i am most passionate abou
 #### Technologies:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,selenium" />
+    <img src="https://skillicons.dev/icons?i=git,selenium,postgres" />
   </a>
 </p>
